@@ -23,6 +23,11 @@
       alias gen_event_list='python /Users/MeteorXaiza/Python/HanasakaTest/analysis_set/version_4/gen_event_list.py'
     ターミナル
       gen_event_list -c event_list_config.ini
+1.1 動作環境
+  下記のURLからmy_functions_2.pyをダウンロードし、このreadme.txtと同じディレクトリに置いてください。
+  auto_backupの動作環境はmy_functions_2の動作環境と同じです。my_functions_2.pyの動作環境はmy_functions_readme.txtに記載されています。
+  https://drive.google.com/open?id=120lrUcihJ5zlR9qJE0rGtAYDbj9NmBYQ
+
 
 
 2. gen_mean_BG_frame_single.py
